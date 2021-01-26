@@ -1,3 +1,3 @@
-import seedbucks from money
+from money import seedbucks
 
 print(seedbucks)
