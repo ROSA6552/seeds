@@ -10,8 +10,7 @@
         "name": "tomato",
         "time_of_rise": 180,
         "purchase": 50,
-        "sale": 98,
-        "time_of_plant": 1611770300
+        "sale": 98
     },
     "3": {
         "name": "carrot",
@@ -53,14 +52,12 @@
         "name": "onion",
         "time_of_rise": 120,
         "purchase": 25,
-        "sale": 58,
-        "time_of_plant": 1611770304
+        "sale": 58
     },
     "10": {
         "name": "cucumber",
         "time_of_rise": 150,
         "purchase": 15,
-        "sale": 24,
-        "time_of_plant": 1611770293
+        "sale": 24
     }
 }
