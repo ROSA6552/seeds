@@ -6,7 +6,7 @@ from colorama import Fore, Style
 def reset():
     print(Style.RESET_ALL)
 
-#JSON READ:
+                                #JSON READ:
 with open("user_data.json", "r") as data_file:
     data = json.load(data_file)
 with open("types_of_seeds.json", "r") as types_file:
@@ -23,7 +23,7 @@ def change_price():
             types[str(i)]['sale'] += int(random.random() * 4)
 
 #Change of sale price
-period = 900    #!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!                43200
+period = 43200
 try:
     last_time = types["last_time"]
 except:
@@ -62,8 +62,7 @@ def json_write(file):
         types_file.close()
 
 
-
-
+                                #profile
 
                                 #Money
 try:
@@ -88,6 +87,7 @@ while True:
         types.update({"last_time": last_time + period})
         last_time += period
         change_price()
+    json_write("data")
     json_write("types")
     print(Fore.BLUE + time.ctime())
     print('Next change of sale prices after', last_time + period - int(time.time()), 'second\n')
@@ -157,6 +157,7 @@ while True:
                     data['to_sale'].update({str(i) : data['to_harvest'][str(i)]})
                     del data['to_harvest'][str(i)]
             except:
+                count++
                 continue
         if(count == 10):
             print(Fore.MAGENTA + 'Nothing planted')

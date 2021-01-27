@@ -1,66 +1,63 @@
 {
-    "last_time": 1611769416,
+    "last_time": null,
     "1": {
         "name": "potato",
         "time_of_rise": 230,
         "purchase": 25,
-        "sale": 63
+        "sale": 50
     },
     "2": {
         "name": "tomato",
         "time_of_rise": 180,
         "purchase": 50,
-        "sale": 98,
-        "time_of_plant": 1611770300
+        "sale": 100
     },
     "3": {
         "name": "carrot",
         "time_of_rise": 210,
         "purchase": 35,
-        "sale": 62
+        "sale": 70
     },
     "4": {
         "name": "peas",
         "time_of_rise": 340,
         "purchase": 55,
-        "sale": 108
+        "sale": 110
     },
     "5": {
         "name": "corn",
         "time_of_rise": 250,
         "purchase": 45,
-        "sale": 88
+        "sale": 90
     },
     "6": {
         "name": "squash",
         "time_of_rise": 240,
         "purchase": 40,
-        "sale": 73
+        "sale": 80
     },
     "7": {
         "name": "cabbage",
         "time_of_rise": 280,
         "purchase": 20,
-        "sale": 39
+        "sale": 40
     },
     "8": {
         "name": "beet",
         "time_of_rise": 250,
         "purchase": 35,
-        "sale": 68
+        "sale": 70
     },
     "9": {
         "name": "onion",
         "time_of_rise": 120,
         "purchase": 25,
-        "sale": 58,
-        "time_of_plant": 1611770304
+        "sale": 50
     },
     "10": {
         "name": "cucumber",
         "time_of_rise": 150,
         "purchase": 15,
-        "sale": 24,
-        "time_of_plant": 1611770293
+        "sale": 30
     }
 }

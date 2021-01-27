@@ -3,29 +3,7 @@
     "surname": null,
     "birthday": null,
     "city": null,
-    "to_harvest": {
-        "10": {
-            "name": "cucumber",
-            "time_of_rise": 150,
-            "purchase": 15,
-            "sale": 24,
-            "time_of_plant": 1611770293
-        },
-        "2": {
-            "name": "tomato",
-            "time_of_rise": 180,
-            "purchase": 50,
-            "sale": 98,
-            "time_of_plant": 1611770300
-        },
-        "9": {
-            "name": "onion",
-            "time_of_rise": 120,
-            "purchase": 25,
-            "sale": 58,
-            "time_of_plant": 1611770304
-        }
-    },
+    "to_harvest": {},
     "to_sale": {},
-    "money": 10
+    "money": null
 }
