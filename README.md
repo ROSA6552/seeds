@@ -1,16 +1,18 @@
 # seeds
 
--money
--seeds
++money
++seeds
 -types of seeds (Unix-date + pseudo-cases)
--login by vk/inst (fill profile based on it + money + crop)
+-login by vk/inst (fill profile based on it + seeds)
 +-action:
    plant seeds
    harvest
    sale
 
--parameters of seeds:
-    time of rise
-    cost
++parameters of seeds:
+    +time of rise
+    +cost
+    +name
+    +time
 
 -change of cost depending on Unix-time twice a day

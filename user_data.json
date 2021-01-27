@@ -1,0 +1,25 @@
+{
+    "name": null,
+    "surname": null,
+    "birthday": null,
+    "city": null,
+    "seeds": {
+        "1": {
+            "name": "potato",
+            "count": 30,
+            "cost": 10
+        },
+        "2": {
+            "name": "tomato",
+            "count": 10,
+            "cost": 27
+        },
+        "3": {
+            "name": "carrot",
+            "time_of_rise": 21,
+            "cost": 27,
+            "time": null
+        }
+    },
+    "money": 100
+}
