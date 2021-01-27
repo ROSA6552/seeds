@@ -1,53 +1,66 @@
 {
-    "last_time" : null,
-    "1" : {
-      "name": "potato",
-      "time_of_rise" : 23,
-      "cost" : 20
+    "last_time": 1611769416,
+    "1": {
+        "name": "potato",
+        "time_of_rise": 230,
+        "purchase": 25,
+        "sale": 63
     },
-    "2" : {
-      "name": "tomato",
-      "time_of_rise" : 18,
-      "cost" : 35
+    "2": {
+        "name": "tomato",
+        "time_of_rise": 180,
+        "purchase": 50,
+        "sale": 98,
+        "time_of_plant": 1611770300
     },
-    "3" : {
-      "name": "carrot",
-      "time_of_rise" : 21,
-      "cost" : 27
+    "3": {
+        "name": "carrot",
+        "time_of_rise": 210,
+        "purchase": 35,
+        "sale": 62
     },
-    "4" : {
-      "name": "peas",
-      "time_of_rise" : 34,
-      "cost" : 55
+    "4": {
+        "name": "peas",
+        "time_of_rise": 340,
+        "purchase": 55,
+        "sale": 108
     },
-    "5" : {
-      "name": "corn",
-      "time_of_rise" : 25,
-      "cost" : 36
+    "5": {
+        "name": "corn",
+        "time_of_rise": 250,
+        "purchase": 45,
+        "sale": 88
     },
-    "6" : {
-      "name": "squash",
-      "time_of_rise" : 24,
-      "cost" : 37
+    "6": {
+        "name": "squash",
+        "time_of_rise": 240,
+        "purchase": 40,
+        "sale": 73
     },
-    "7" : {
-      "name": "cabbage",
-      "time_of_rise" : 28,
-      "cost" : 33
+    "7": {
+        "name": "cabbage",
+        "time_of_rise": 280,
+        "purchase": 20,
+        "sale": 39
     },
-    "8" : {
-      "name": "beet",
-      "time_of_rise" : 25,
-      "cost" : 30
+    "8": {
+        "name": "beet",
+        "time_of_rise": 250,
+        "purchase": 35,
+        "sale": 68
     },
-    "9" : {
-      "name": "onion",
-      "time_of_rise" : 12,
-      "cost" : 22
+    "9": {
+        "name": "onion",
+        "time_of_rise": 120,
+        "purchase": 25,
+        "sale": 58,
+        "time_of_plant": 1611770304
     },
-    "10" : {
-      "name": "cucumber",
-      "time_of_rise" : 15,
-      "cost" : 32
+    "10": {
+        "name": "cucumber",
+        "time_of_rise": 150,
+        "purchase": 15,
+        "sale": 24,
+        "time_of_plant": 1611770293
     }
 }
