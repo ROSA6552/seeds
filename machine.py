@@ -23,7 +23,7 @@ def change_price():
             types[str(i)]['sale'] += int(random.random() * 4)
 
 #Change of sale price
-period = 900    #!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!                43200
+period = 43200
 try:
     last_time = types["last_time"]
 except:
