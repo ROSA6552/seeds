@@ -1,1 +1,0 @@
-seedbucks = 2;

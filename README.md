@@ -4,7 +4,7 @@
 -seeds
 -types of seeds (Unix-date + pseudo-cases)
 -login by vk/inst (fill profile based on it + money + crop)
--action:
++-action:
    plant seeds
    harvest
    sale

@@ -1,0 +1,16 @@
+{
+    "money" : 30,
+    "seeds" : {
+        "seeds1" : {
+            "name": "potatoes",
+            "count" : 30,
+            "cost" : 10
+        },
+        "seeds2" : {
+            "name": "tomatoes",
+            "count" : 10,
+            "cost" : 27
+        }
+    }
+
+}
