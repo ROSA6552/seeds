@@ -157,7 +157,7 @@ while True:
                     data['to_sale'].update({str(i) : data['to_harvest'][str(i)]})
                     del data['to_harvest'][str(i)]
             except:
-                count++
+                count +=1
                 continue
         if(count == 10):
             print(Fore.MAGENTA + 'Nothing planted')
